@@ -1,0 +1,20 @@
+Alpha and Opacity of Colours.
+
+While we have RGB
+
+There's RGBA - where is how transparent. 
+0 is fully transparent.
+1 is not transparent at all.
+
+It's not from 0 - 255
+It's from 0 - 1
+
+
+Opacity is 0 - 1
+
+0 is fully transparent.
+1 is not transparent at all.
+
+
+The contents within an opacity get impacted by it's property.
+However only the specified Alpha content gets modified.
